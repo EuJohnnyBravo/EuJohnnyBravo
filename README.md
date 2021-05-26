@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EuJohnnyBravo (Rodrigo Oliveira)
-- 👀 I’m interested in making games.
+- 👀 I’m interested in make games.
 - 🌱 I’m currently learning C, CSharp and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
