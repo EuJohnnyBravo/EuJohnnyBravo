@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EuJohnnyBravo (Rodrigo Oliveira)
+- 👋 Hi, I’m Rodrigo
 - 👀 I’m interested in make games.
 - 🌱 I’m currently learning C, CSharp and Python.
 - 💞️ I’m looking to collaborate on ...
