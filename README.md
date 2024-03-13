@@ -1,15 +1,5 @@
 <h1>Opa!! ( ͡❛ ⏥ ͡❛)</h1>
 
-<style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
 ```TypeScript
 #!/usr/bin/node
 # -*- coding: utf-8 -*-
