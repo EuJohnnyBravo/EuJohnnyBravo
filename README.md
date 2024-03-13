@@ -30,10 +30,11 @@ me.sayHi()
 
 
 <div>
-  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=EuJohnnyBravo&hide=contribs&title_color=76ABAE&text_color=EEEEEE&bg_color=222831&border_color=31363F">
-  <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuJohnnyBravo&layout=compact&title_color=76ABAE&text_color=EEEEEE&bg_color=222831&border_color=31363F">
+  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=EuJohnnyBravo&hide=contribs&title_color=76ABAE&text_color=EEEEEE&bg_color=161b22&border_color=31363F">
+  <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuJohnnyBravo&layout=compact&title_color=76ABAE&text_color=EEEEEE&bg_color=161b22&border_color=31363F">
   <img height="191em" src="https://i.pinimg.com/originals/fe/ae/a8/feaea85adcadf3370d4900825705dfc2.gif" style="border:10px solid black">
 </div>
+
 
 
 
