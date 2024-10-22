@@ -7,12 +7,12 @@
 class Developer {
   private _name: string;
   private _role: string;
-  private _languageSpoken: string[];
+  private _language: string[];
 
-  constructor(name: string = "Rodrigo Oliveira", role: string = "Developer", languageSpoken: string[] = ["pt-BR", "en_US"]) {
+  constructor(name: string = "Rodrigo Oliveira", role: string = "Developer", language: string[] = ["pt-BR", "en_US"]) {
     this._name = name;
     this._role = role;
-    this._languageSpoken = languageSpoken;
+    this._language = language;
   }
 
   public sayHi(): void {
