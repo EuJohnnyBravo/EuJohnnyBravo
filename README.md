@@ -1,16 +1,22 @@
-<h1>Opa!! ( ͡❛ ⏥ ͡❛)</h1>
+# Opa!! Tudo bom? ( ͡❛ ⏥ ͡❛)
 
 ```TypeScript
 #!/usr/bin/node
 # -*- coding: utf-8 -*-
 
 class Developer {
-  name: string = "Rodrigo Oliveira"
-  role: string = "Developer"
-  languageSpoken: string[] = ["pt-BR", "en_US"]
+  private _name: string;
+  private _role: string;
+  private _languageSpoken: string[];
 
-  sayHi(): void {
-    console.log("Thanks for dropping by, hope you find some of my work interesting.")
+  constructor(name: string = "Rodrigo Oliveira", role: string = "Developer", languageSpoken: string[] = ["pt-BR", "en_US"]) {
+    this._name = name;
+    this._role = role;
+    this._languageSpoken = languageSpoken;
+  }
+
+  public sayHi(): void {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
   }
 }
 
